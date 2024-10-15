@@ -1,0 +1,3 @@
+name,age,sal
+Anil,23,2345678
+Ajay,25,2435767
